@@ -1,5 +1,7 @@
 # Quantitative semisolid MT and rNOE imaging in a multiple sclerosis mouse model
 
+[![DOI](https://zenodo.org/badge/1337288812.svg)](https://doi.org/10.5281/zenodo.23989929)
+
 Analysis code for *"Quantitative Semisolid Magnetization Transfer and Relayed
 Nuclear Overhauser Effect Imaging in a Multiple Sclerosis Mouse Model Using Deep
 Magnetic Resonance Fingerprinting"* (Ben Chaim, Rivlin, Perlman),
